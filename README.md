@@ -30,13 +30,12 @@ I'm Cristina, a passionate Frontend Developer with a love for creating immersive
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet)](https://www.yourportfolio.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmavroian)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MeowITDev)
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeowIt&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
 
 ## 🎨 Let's Collaborate!
 
